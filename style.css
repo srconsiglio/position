@@ -1,0 +1,35 @@
+.container{
+    width: 400px;
+    height: 400px;
+    border: dashed 3px black;
+}
+
+.box1, .box2{
+    width: 150px;   
+    height: 150px;
+
+
+}
+
+.box1{
+    background-color: blueviolet;
+
+    /* 
+    position: relative;
+    top: 50px;
+    */
+
+    /*
+    position: absolute;
+    bottom: 0px;
+    */
+    position: fixed;
+    top: 100px;
+
+
+}
+
+.box2{
+    background-color: aquamarine;
+    
+}

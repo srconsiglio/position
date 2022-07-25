@@ -1,0 +1,20 @@
+.container1{
+    background-color: gray;
+    height: 800px;
+    width: 800px;
+    left: 300px;
+    position: absolute;
+    
+}
+
+.container2{
+    background-color: blue;
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    top: 20px;
+    right: 1000px;
+
+}
+
+
